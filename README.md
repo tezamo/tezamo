@@ -2,7 +2,7 @@
 -👀 I’m interested in data science, machine learning, econometrics, and data-driven decision-making.  
 -🌱 I’m currently learning advanced machine learning techniques and enhancing my language skills.  
 -💞️ I’m looking to collaborate on innovative data science projects, especially in economic analysis or business intelligence.  
--📫 How to reach me: mortezamotegh@gmail.com  
+-📫 How to reach me: morteza.motegh@gmail.com  
 
 
 <!---
