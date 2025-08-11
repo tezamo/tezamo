@@ -14,22 +14,38 @@
 
 ## 🚀 Technologien | Tech Stack
 
-### 📊 Data Science & Analytics
+### 📊 Data Science & Statistical Analysis
 
+**Programming & Statistical Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Stata](https://img.shields.io/badge/Stata-1A4F9B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBkPSJNNTAgMTBhNDAgNDAgMCAwIDAtNDAgNDAgNDAgNDAgMCAwIDAgNDAgNDAgNDAgNDAgMCAwIDAgNDAtNDAgNDAgNDAgMCAwIDAtNDAtNDB6bTMwIDIwYTEwIDEwIDAgMCAxIDEwIDEwIDEwIDEwIDAgMCAxLTEwLTEwem0tNDAgMGE4IDggMCAwIDEgOCAxMCA4IDggMCAwIDEtOC0xMHptLTggMjVhOCAxMCAwIDAgMS0xMCA4IDggMTAgMCAwIDEtOC0xMCA4IDEwIDAgMCAxIDEwLTggOCAxMCAwIDAgMSAxMCA4em0zMiA4YTEwIDEwIDAgMCAxIDEwIDEwIDEwIDEwIDAgMCAxLTEwLTEwem0tOCAyNWExMCAxMCAwIDAgMS0xMCAxMCAxMCAxMCAwIDAgMS0xMC0xMHoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+**Statistical & Econometric Software**  
+![Stata](https://img.shields.io/badge/Stata-1B6AC6?style=for-the-badge&logo=stata&logoColor=white)
+![EViews](https://img.shields.io/badge/EViews-005BAC?style=for-the-badge&logoColor=white)
+
+**Business Intelligence & Data Visualization**  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+**Workflow Automation & Integration**  
+![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
+![Agno](https://img.shields.io/badge/Agno-FF3E00?style=for-the-badge&logo=challengecoin&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 
+**Version Control & Collaboration**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Productivity & Documentation**  
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
+
+**Development Environments**  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
