@@ -50,10 +50,7 @@
 
 ---
 
-### 💡 "Turning data into actionable insights! ✨"
-
-**Vielen Dank für den Besuch meiner Seite! Gerne könnt ihr meine Projekte mit einem Star ⭐ unterstützen!**\
-**Thanks for visiting my profile! Feel free to star ⭐ my projects!**
+<h1 align="center">💡 " I'm in my own comic book! ✨"</h1>
 
 
 
