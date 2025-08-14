@@ -49,11 +49,13 @@
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
+
+[<img src="https://raw.githubusercontent.com/tezamo/tezamo/main/logo.png" height="50">](https://sunguoqi.com/)
+
 [<img src="https://raw.githubusercontent.com/tezamo/tezamo/main/logo.gif" height="250">](https://sunguoqi.com/)[<img src="https://raw.githubusercontent.com/tezamo/tezamo/main/enemy.png" height="90">](https://sunguoqi.com/)
 
 [<img src="https://raw.githubusercontent.com/tezamo/tezamo/main/logo.png" height="50">](https://sunguoqi.com/)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=000000&center=false&vCenter=false&width=435&lines=I'm+in+my+own+comic+book+\m/)](https://sunguoqi.com/)
-
 
 <!---
 tezamo/tezamo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
