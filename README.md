@@ -55,7 +55,6 @@
     <img src="./logo.gif" height="250"><img src="./logo.png" height="70"><br>
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=000000&center=false&vCenter=false&width=435&lines=I'm+in+my+own+comic+book+\m/"> 
   </a> 
-
 </h1>
 
 
