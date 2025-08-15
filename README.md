@@ -55,9 +55,9 @@ Data Science Projects
 
 <p align="center">
 
-<a href="https://github.com/tezamo/breast-cancer-sml-project"> <img src="https://raw.githubusercontent.com/tezamo/tezamo/main/machinelearning.png" width="30%" /> </a> 
-<a href="https://github.com/tezamo/shared-apartment-market-study"> <img src="https://raw.githubusercontent.com/tezamo/tezamo/main/financial.png" width="30%" /> </a>
-<a href="https://github.com/tezamo/oil-shocks-usa"> <img src="https://raw.githubusercontent.com/tezamo/tezamo/main/applied.png" width="30%" /> </a>
+<a href="https://github.com/tezamo/breast-cancer-sml-project"> <img src="https://raw.githubusercontent.com/tezamo/tezamo/main/machinelearning1.png" width="30%" /> </a> 
+<a href="https://github.com/tezamo/shared-apartment-market-study"> <img src="https://raw.githubusercontent.com/tezamo/tezamo/main/financial1.png" width="30%" /> </a>
+<a href="https://github.com/tezamo/oil-shocks-usa"> <img src="https://raw.githubusercontent.com/tezamo/tezamo/main/applied1.png" width="30%" /> </a>
 </p>
 
 ---
