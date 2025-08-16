@@ -50,7 +50,7 @@
 
 ---
 
-Data Science Projects
+Business Analytics and Intelligence Projects
 --- 
 
 <p align="center">
