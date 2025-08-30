@@ -67,10 +67,7 @@ Business Analytics and Intelligence Projects
 
 <img src="https://raw.githubusercontent.com/tezamo/tezamo/main/logo2.gif" height="100"> <img src="https://raw.githubusercontent.com/tezamo/tezamo/main/logo.png" height="20">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=000000&center=false&vCenter=false&width=435&lines=I'm+in+my+own+comic+book+\m/)](https://sunguoqi.com/)
-
-
-![Now Playing](./now-playing.svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=000000&center=false&vCenter=false&width=435&lines=I'm+in+my+own+comic+book+\m/)](https://sunguoqi.com/) ![Spotify Card](./now-playing.svg)
 
 <!---
 tezamo/tezamo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
