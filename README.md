@@ -8,9 +8,7 @@
 - 💞️ I’m looking to collaborate on innovative data science projects, especially in economic analysis or business intelligence.  
 - 📫 How to reach me:  [Email](mailto:tezamo@web.de)   
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tezamo&theme=github" alt="tezamo" align = "center"/>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tezamo&theme=nord_dark&utcOffset=8)
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tezamo&theme=github" alt="tezamo" align = "center"/>![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tezamo&theme=nord_dark&utcOffset=8)
 
 
 ---
