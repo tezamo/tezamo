@@ -67,7 +67,7 @@ Business Analytics and Intelligence Projects
 <!-- Top green line -->
 <hr style="border: 0; height: 2px; background-color: #1DB954; margin: 2px 0;">
 
-<h3 style="font-family: Helvetica, Arial, sans-serif; color: #1DB954; font-weight: bold; display: inline-flex; align-items: center;">
+<h3 style="font-family: Helvetica, Arial, sans-serif; color: #1DB954; font-weight: bold; display: inline-flex; align-items: left;">
   Playing Now
   <img src="https://raw.githubusercontent.com/tezamo/tezamo/main/spotify.gif" alt="Spotify" height="60
   " style="vertical-align: middle; margin-left: 8px;">
