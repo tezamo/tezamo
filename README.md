@@ -10,6 +10,9 @@
 
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tezamo&theme=github" alt="tezamo" align = "center"/></p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tezamo&theme=nord_dark&utcOffset=8)
+
+
 ---
 
 ## 🚀 Technologien | Tech Stack
