@@ -64,19 +64,9 @@ Business Analytics and Intelligence Projects
 </p>
 
 ---
-
-<div style="display: flex; align-items: center; width: 100%;">
-  <img src="https://raw.githubusercontent.com/tezamo/tezamo/main/logo2.gif" height="100">
-  <a href="https://open.spotify.com/track/5IR06RjDYk65ahp7QPuaBz?si=11ab9cae4d214e06" target="_blank" style="margin-left: 300px;">
-    <img src="./now-playing.svg" alt="Now Playing" width="350
-    ">
-  </a>
-</div>
-
-
-
-
-
+ 
+ <img src="./now-playing.svg" alt="Now Playing" width="320" /> </p>
+<img src="https://raw.githubusercontent.com/tezamo/tezamo/main/logo2.gif" height="100"> <img src="https://raw.githubusercontent.com/tezamo/tezamo/main/logo.png" height="20">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=000000&center=false&vCenter=false&width=435&lines=I'm+in+my+own+comic+book+\m/)](https://sunguoqi.com/)
 
