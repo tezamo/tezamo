@@ -67,9 +67,9 @@ Business Analytics and Intelligence Projects
 <!-- Top green line -->
 <hr style="border: 0; height: 2px; background-color: #1DB954; margin: 2px 0;">
 
-<img src="https://raw.githubusercontent.com/tezamo/tezamo/main/spotify.gif" alt="Spotify" height="60">
+<img src="https://raw.githubusercontent.com/tezamo/tezamo/main/spotify.gif" alt="Spotify" height="100">
  <img src="./now-playing.svg" alt="Now Playing" width="320" /> </p>
- 
+
  <!-- Bottom green line -->
 <hr style="border: 0; height: 2px; background-color: #1DB954; margin: 16px 0;">
 
