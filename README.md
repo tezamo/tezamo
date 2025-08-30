@@ -64,8 +64,21 @@ Business Analytics and Intelligence Projects
 </p>
 
 ---
- 
+
+<!-- Top green line -->
+<hr style="border: 0; height: 2px; background-color: #1DB954; margin: 2px 0;">
+
+<h3 style="font-family: Helvetica, Arial, sans-serif; color: #1DB954; font-weight: bold; display: inline-flex; align-items: center;">
+  Playing Now
+  <img src="https://raw.githubusercontent.com/tezamo/tezamo/main/spotify.gif" alt="Spotify" height="60
+  " style="vertical-align: middle; margin-left: 8px;">
+</h3>
+
+
  <img src="./now-playing.svg" alt="Now Playing" width="320" /> </p>
+ <!-- Bottom green line -->
+<hr style="border: 0; height: 2px; background-color: #1DB954; margin: 16px 0;">
+
 <img src="https://raw.githubusercontent.com/tezamo/tezamo/main/logo2.gif" height="100"> <img src="https://raw.githubusercontent.com/tezamo/tezamo/main/logo.png" height="20">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=000000&center=false&vCenter=false&width=435&lines=I'm+in+my+own+comic+book+\m/)](https://sunguoqi.com/)
