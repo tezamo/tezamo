@@ -65,10 +65,11 @@ Business Analytics and Intelligence Projects
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 100%;">
   <img src="https://raw.githubusercontent.com/tezamo/tezamo/main/logo2.gif" height="100">
   <img src="./now-playing.svg" alt="Now Playing" width="320">
 </div>
+
 
 
 
