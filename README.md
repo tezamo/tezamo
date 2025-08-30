@@ -63,7 +63,6 @@ Business Analytics and Intelligence Projects
 <a href="https://github.com/tezamo/oil-shocks-usa"> <img src="https://raw.githubusercontent.com/tezamo/tezamo/main/applied4.png" width="30%" /> </a>
 </p>
 
----
 
 <!-- Top green line -->
 <hr style="border: 0; height: 2px; background-color: #1DB954; margin: 2px 0;">
