@@ -65,9 +65,16 @@ Business Analytics and Intelligence Projects
 
 ---
 
-<img src="https://raw.githubusercontent.com/tezamo/tezamo/main/logo2.gif" height="100"> <img src="https://raw.githubusercontent.com/tezamo/tezamo/main/logo.png" height="20"> <p align="right">
-  <img src="./now-playing.svg" alt="Now Playing" width="320" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://raw.githubusercontent.com/tezamo/tezamo/main/logo2.gif" height="100">
+    </td>
+    <td align="right">
+      <img src="./now-playing.svg" alt="Now Playing" width="320">
+    </td>
+  </tr>
+</table>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=000000&center=false&vCenter=false&width=435&lines=I'm+in+my+own+comic+book+\m/)](https://sunguoqi.com/)
