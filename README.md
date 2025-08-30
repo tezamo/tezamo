@@ -68,7 +68,8 @@ Business Analytics and Intelligence Projects
 <div style="display: flex; align-items: center; width: 100%;">
   <img src="https://raw.githubusercontent.com/tezamo/tezamo/main/logo2.gif" height="100">
   <a href="https://open.spotify.com/track/5IR06RjDYk65ahp7QPuaBz?si=11ab9cae4d214e06" target="_blank" style="margin-left: 150px;">
-    <img src="./now-playing.svg" alt="Now Playing" width="600">
+    <img src="./now-playing.svg" alt="Now Playing" width="350
+    ">
   </a>
 </div>
 
