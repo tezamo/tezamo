@@ -66,8 +66,16 @@ Business Analytics and Intelligence Projects
 
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 
-<img src="https://raw.githubusercontent.com/tezamo/tezamo/main/spotify.gif" alt="Spotify" height="150"> 
-<a href="https://open.spotify.com/track/5IR06RjDYk65ahp7QPuaBz?si=11ab9cae4d214e06" target="_blank"><img src="./now-playing.svg" alt="Now Playing" width="320"> </a>
+<div style="display: flex; align-items: center; gap: 16px;">
+  <!-- Left: Spotify GIF -->
+  <img src="https://raw.githubusercontent.com/tezamo/tezamo/main/spotify.gif" alt="Spotify" height="150">
+
+  <!-- Right: Clickable Now Playing card -->
+  <a href="https://open.spotify.com/track/5IR06RjDYk65ahp7QPuaBz?si=11ab9cae4d214e06" target="_blank">
+    <img src="./now-playing.svg" alt="Now Playing" width="320">
+  </a>
+</div>
+
 
 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 
