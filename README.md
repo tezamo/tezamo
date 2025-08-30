@@ -66,9 +66,15 @@ Business Analytics and Intelligence Projects
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 100%;">
+  <!-- Left: Logo -->
   <img src="https://raw.githubusercontent.com/tezamo/tezamo/main/logo2.gif" height="100">
-  <img src="./now-playing.svg" alt="Now Playing" width="320">
+
+  <!-- Right: Clickable Now Playing card -->
+  <a href="https://open.spotify.com/track/5IR06RjDYk65ahp7QPuaBz?si=11ab9cae4d214e06" target="_blank">
+    <img src="./now-playing.svg" alt="Now Playing" width="320">
+  </a>
 </div>
+
 
 
 
