@@ -1,4 +1,4 @@
-## 🎭 Über mich | About Me
+## 🎭 Über mich | About Me 
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -6,7 +6,10 @@
 - 👀 I’m interested in data science, machine learning, econometrics, and data-driven decision-making.  
 - 🌱 I’m currently learning advanced machine learning techniques and enhancing my language skills.  
 - 💞️ I’m looking to collaborate on innovative data science projects, especially in economic analysis or business intelligence.  
-- 📫 How to reach me:  [Email](mailto:tezamo@web.de)   
+- 📫 How to reach me:  [Email](mailto:tezamo@web.de) 
+
+![](https://komarev.com/ghpvc/?username=tezamo&base=126&style=for-the-badge)
+
 
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tezamo&theme=github" alt="tezamo" align = "center"/></p>
 
