@@ -68,7 +68,7 @@ Business Analytics and Intelligence Projects
 
 <div style="display: flex; align-items: center; gap: 16px;">
   <!-- Left: Spotify GIF -->
-  <img src="https://raw.githubusercontent.com/tezamo/tezamo/main/spotify.gif" alt="Spotify" height="100">
+  <img src="https://raw.githubusercontent.com/tezamo/tezamo/main/nowplaying.gif" alt="Spotify" height="100">
 
   <!-- Right: Clickable Now Playing card -->
   <a href="https://open.spotify.com/track/5IR06RjDYk65ahp7QPuaBz?si=11ab9cae4d214e06" target="_blank">
