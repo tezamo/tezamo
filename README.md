@@ -6,7 +6,7 @@
 - 👀 I’m interested in data science, machine learning, econometrics, and data-driven decision-making.  
 - 🌱 I’m currently learning advanced machine learning techniques and enhancing my language skills.  
 - 💞️ I’m looking to collaborate on innovative data science projects, especially in economic analysis or business intelligence.  
-- 📫 How to reach me:  [Email](mailto:tezamo@web.de) 
+- 📫 How to reach me:  [Email](mailto:tezamo@gmx.de) 
 
 ![](https://komarev.com/ghpvc/?username=tezamo&base=126&style=for-the-badge)
 
