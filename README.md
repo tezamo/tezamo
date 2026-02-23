@@ -1,4 +1,12 @@
-## 🎭 Über mich | About Me 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9f9f9f,100:000000&height=300&section=header&text=Tezamo&fontSize=60&animation=fadeIn&fontColor=FFFFFF&fontAlignY=35&desc=Data Science Business Analyst &descAlignY=55&descAlign=50" width="100%"/>
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Rust+%26+Python;Distributed+Systems;RAG+%26+LLM+Systems;Fast,+Safe+Backends" alt="Typing SVG" />
+</p>
+
+<h2 style="margin-top: -40px;"> 🎭 Über mich | About Me </h2>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -84,6 +92,9 @@ Business Analytics and Intelligence Projects
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=000000&center=false&vCenter=false&width=435&lines=I'm+in+my+own+comic+book+\m/)](https://sunguoqi.com/)
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:9f9f9f,100:000000&height=100&section=footer" width="100%"/>
+</div>
 <!---
 tezamo/tezamo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
